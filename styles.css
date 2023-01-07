@@ -39,10 +39,15 @@ p {
 }
 
 .active {
+    background-color: white;
+    border-color: red;
+}
+
+/*.active {
     opacity: 0.5;
     background-color: white;
     transition-duration: 0.5s;
-}
+}*/
 
 .box-1 {
     background-image: url("images/tom1.png");
